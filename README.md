@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcv303
 - 👀 I’m interested in Linux Sysadministration, Azure, DevOps
-- 🌱 I’m currently learning Networktraffic, working with Wireshark
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on - for now nothing
 - 📫 How to reach me - not for now
 
